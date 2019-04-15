@@ -1,0 +1,7 @@
+///////////////////Exercise no 6//////////////////////////
+
+b)
+C2248: 'person::first_name' : cannot access private member declared in class 'person'
+C2248: 'person::last_name' : cannot access private member declared in class 'person'
+c)
+we get this error because firstname and last_name are private members in class person and we cannnot access them without getters and setters.we use getters and setter to get access on private members of class.
