@@ -1,0 +1,26 @@
+///exercise7
+yes
+person(string,string,int) called
+student(string,string,int,float) called
+person(string,string,int) called
+faculty(string,string,int,int,int) called
+Ted
+Thompson
+22
+3.91
+Richard
+Karp
+45
+2
+420
+Ted Thompson is 22 years old,his cgpa is 3.91
+Faculty Member name: Richard Karp, Age: 45,Number of courses: 2, Ext. 420
+Press any key to continue . . .
+~faculty() called
+~person()  called
+~student() called
+~person()  called
+Press any key to continue . . .
+
+////////////////
+/////////exercise8
