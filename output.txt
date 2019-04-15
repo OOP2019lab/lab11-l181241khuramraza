@@ -1,0 +1,31 @@
+
+//////////Output for Exercise5/////////
+
+person(string,string,int) called
+student(string,string,int,float) called
+person(string,string,int) called
+faculty(string,string,int,int,int) called
+Ted
+Thompson
+22
+3.91
+Richard
+Karp
+45
+2
+420
+Press any key to continue . . .
+~faculty() called
+~person()  called
+~student() called
+~person()  called
+Press any key to continue . . .
+//////////////////////////////////////
+
+///////////////////Exercise no 6//////////////////////////
+
+b)
+C2248: 'person::first_name' : cannot access private member declared in class 'person'
+C2248: 'person::last_name' : cannot access private member declared in class 'person'
+c)
+we get this error because firstname and last_name are private members in class person and we cannnot access them without getters and setters.we use getters and setter to get access on private members of class.
